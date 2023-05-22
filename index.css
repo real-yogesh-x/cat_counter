@@ -1,0 +1,33 @@
+body {
+    background-image: url(./Cat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    max-width: 50%;
+    height: 35%;
+    text-align: center;
+    margin-top: 15%;
+    border: 2px solid black;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: sans-serif;
+    background-color: rgb(212, 224, 228);
+    border-radius: 10px;
+    opacity: 1;
+}
+
+button {
+    height: 30px;
+    border-radius: 5px;
+    font-size: large;
+}
+
+#increment-btn {
+    background-color: rgb(116, 220, 116);
+}
+
+#save-btn {
+    background-color: rgb(49, 76, 158);
+}
